@@ -1,2 +1,2 @@
 # analytics
-## this folder has my project files related to analytics
+## Please click on any of the project folders for the analysis / experiments in Python/R.
